@@ -1,2 +1,0 @@
-tutaj będę wrzucał zadania z programowania w pythonie
-testuję githuba, dobra jest gites elegancko
