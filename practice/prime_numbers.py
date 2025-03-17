@@ -8,9 +8,9 @@ def liczba_pierwsza(x):
     
     return True
 
-x = int(input(f"Proszę podać liczbę: "))
+x = int(input(f"Enter your number: "))
 
 if liczba_pierwsza(x):
-    print(f"Liczba {x} jest pierwsza :)")
+    print(f"Number {x} is prime :)")
 else:
-    print(f"Liczba {x} nie jest pierwsza!")
+    print(f"Number {x} is not prime!")

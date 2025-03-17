@@ -10,4 +10,4 @@ x = 10 # Liczba pierwszych elementów które chcemy uzyskać
 
 lista = [fibonacci(number) for number in range(0, x+1)] # "x+1" aby 10. element był inkluzywny
 
-print(lista[-1]) # Nie wiedziałem czy mam wyświetlić wszystkie listy po kolei czy tylko tą zawierającą 10 elementów
+print(lista[-1])

@@ -17,11 +17,9 @@ def make_operation(a, b, opcode):
         wynik = operation(a, b)
         print(wynik)
 
-# Program do wykonania:
+# task:
 program = [(5.43, 2.43, "add"), (3, 2, "sub"), (21, 7, "div"), (6.54, 2.81, "mul")]
 
-# Wykonanie programu:
+# exec:
 for a, b, opcode in program:
     make_operation(a, b, opcode)
-
-# Nie wiem czemu przy pierwszym dodawaniu wychodzi wynik z jakąś bardzo dziwną resztą ;/
